@@ -1,0 +1,7 @@
+{
+	"name": "AzureBlobStorage1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/60d14b42-62c8-48d6-9772-97f21e841e5c/resourceGroups/TrainingRG/providers/Microsoft.Storage/storageAccounts/marutistorage4999",
+		"groupId": "blob"
+	}
+}

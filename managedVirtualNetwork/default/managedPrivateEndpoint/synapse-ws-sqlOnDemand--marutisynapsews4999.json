@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--marutisynapsews4999",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/60d14b42-62c8-48d6-9772-97f21e841e5c/resourceGroups/TrainingRG/providers/Microsoft.Synapse/workspaces/marutisynapsews4999",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"marutisynapsews4999-ondemand.12fe632b-9d6b-4b3f-b11f-c8523451b9c2.sql.azuresynapse.net"
+		]
+	}
+}
